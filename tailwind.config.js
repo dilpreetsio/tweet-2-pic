@@ -8,6 +8,6 @@ module.exports = {
   },
   plugins: [],
   images: {
-    domains: ['twitter.com']
+    domains: ['pbs.twitter.com']
   }
 }
